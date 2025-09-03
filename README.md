@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/himanshu064/prisma-node-crud.git
+git clone https://github.com/rohitcoding1991/prisma-node-crud.git
 ```
 2. **Install dependencies:**
 
