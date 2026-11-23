@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "node init && nodemon src/index.js",
     "migrate": "npx prisma migrate",
     "postinstall": "npx prisma generate"
   },
